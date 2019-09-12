@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER https://github.com/chineseocr/chineseocr
+MAINTAINER https://github.com/Jnoson/chineseocr
 LABEL version="1.0"
 EXPOSE 8080
 RUN apt-get update
